@@ -22,7 +22,7 @@ public class ExemploScaner {
 
         System.out.println("Seu nome é" + nome);
         System.out.println("Seu peso é" + peso);
-        System.out.println("Sua idade é" + idade) ;
+        System.out.println("Sua idade é" + idade);
 
     }
 }
