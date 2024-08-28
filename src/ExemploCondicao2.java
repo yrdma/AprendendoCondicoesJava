@@ -34,7 +34,7 @@ public class ExemploCondicao2 {
         System.out.println("Valor bruto é : " + valorBruto);
         System.out.println("Valor desconto é : " + desconto);
         System.out.println("Valor com desconto é : " + saldo);
-        System.out.println("Valor líquido é : " + (valorBruto - desconto));
+        System.out.println("Valor líquido é : " + (valorBruto - desconto)) ;
 
     }
 
